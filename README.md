@@ -1,7 +1,7 @@
 DMS-GSL Code Of Laws
 ===================
 
-Version: 2012-05-11 (draft)
+Version: 2012-05-13 (draft)
 
 ## Preamble
 
@@ -47,8 +47,8 @@ The GSL's responsibilities include, but are not limited to, the following charge
     - The DMS Department Chair and other faculty
     - The Graduate Student Council and other graduate student leadership
 * Organizing professional and social events for the benefit of DMS graduate students
-* Organizing the DMS Graduate Student Mentor program
-* Mobilize DMS graduate students to represent mathematics for COSAM Outreach
+* Supporting the DMS Graduate Student Mentor program
+* Supporting COSAM Outreach efforts by helping represent mathematics
 
 ## Article 4: Meetings
 
