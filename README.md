@@ -1,7 +1,7 @@
 DMS-GSL Code Of Laws
 ===================
 
-Version: 2012-05-13 (draft)
+Version: 2012-05-24 (draft)
 
 ## Preamble
 
@@ -25,7 +25,7 @@ Note: the charter membership of the GSL beginning in May 2013 is completely appo
 
 Each Spring Semester, elections of the President and Vice President should be held amongst all DMS graduate students, according to the following rules:
 
-* Any DMS graduate student in good standing who will be enrolled Fall through Summer of the academic year they wish to run is allowed to nominate themselves for President/Vice President.
+* All DMS graduate students in good standing who will be enrolled Fall through Summer of the academic year they wish to run are allowed to nominate themselves for President/Vice President.
 * Once a final list of nominees is determined, all DMS graduate students may vote their approval for up to two candidates amongst all nominees.
 * The candidate receiving the most votes of approval becomes President, and the canddiate receiving the second most votes of approval becomes Vice President.
 
@@ -44,15 +44,16 @@ If there is ever a stalemate for any GSL position, the DMS Department Chair make
 The GSL's responsibilities include, but are not limited to, the following charges:
 
 * Representing the interests of DMS graduate students for the following groups and others.
-    - The DMS Department Chair and other faculty
+    - The DMS Department Chair and Graduate Program Officer
     - The Graduate Student Council and other graduate student leadership
 * Organizing professional and social events for the benefit of DMS graduate students
+* Managing the selection of the DMS Outstanding Graduate Teacher Award
 * Supporting the DMS Graduate Student Mentor program
 * Supporting COSAM Outreach efforts by helping represent mathematics
 
 ## Article 4: Meetings
 
-The GSL will hold two meetings each fall and spring semester, and one meeting each summer semester. These meetings are open to all DMS graduate students.
+The GSL will hold one open meeting during each semester: fall, spring, and summer. These meetings are open to all DMS graduate students. Leaders may also meet amongst themselves and others additionally as needed in order to fulfill the GSL's mission and responsibilities.
 
 ## Article 5: Ratification and Amendments
 
