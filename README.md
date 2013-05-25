@@ -27,7 +27,7 @@ Each Spring Semester, elections of the President and Vice President should be he
 
 * All DMS graduate students in good standing who will be enrolled Fall through Summer of the academic year they wish to run are allowed to nominate themselves for President/Vice President.
 * Once a final list of nominees is determined, all DMS graduate students may vote their approval for up to two candidates amongst all nominees.
-* The candidate receiving the most votes of approval becomes President, and the canddiate receiving the second most votes of approval becomes Vice President.
+* The candidate receiving the most votes of approval becomes President, and the candidate receiving the second most votes of approval becomes Vice President.
 
 Elections and appointments should completed before May 1 of each year, and newly elected/appointed Leaders take office on August 1 each year.
 
