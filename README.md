@@ -1,7 +1,7 @@
 DMS-GSL Code Of Laws
 ===================
 
-Version: 2012-05-24 (draft)
+Ratified on 2013-05-28 by the charter membership of the DMS Graduate Student Leaders and the DMS Department Chair.
 
 ## Preamble
 
