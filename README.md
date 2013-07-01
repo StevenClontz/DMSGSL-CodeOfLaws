@@ -8,5 +8,5 @@ Links
 
 * [Code of Laws](https://github.com/StevenClontz/DMSGSL-CodeOfLaws/blob/master/CodeOfLaws.md)
 * [Membership](https://github.com/StevenClontz/DMSGSL-CodeOfLaws/blob/master/Membership.md)
-* [Meeting Minutes](https://github.com/StevenClontz/DMSGSL-CodeOfLaws/blob/master/Minutes.md)
-* [Bills](https://github.com/StevenClontz/DMSGSL-CodeOfLaws/blob/master/Bills.md)
+* [Meeting Minutes](https://github.com/StevenClontz/DMSGSL-CodeOfLaws/blob/master/Minutes)
+* [Bills](https://github.com/StevenClontz/DMSGSL-CodeOfLaws/blob/master/Bills)
