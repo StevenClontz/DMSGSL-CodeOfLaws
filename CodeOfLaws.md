@@ -25,7 +25,9 @@ Note: the charter membership of the GSL beginning in May 2013 is completely appo
 
 Each Spring Semester, elections of the President and Vice President should be held amongst all DMS graduate students, according to the following rules:
 
-* All DMS graduate students in good standing who will be enrolled Fall through Summer of the academic year they wish to run are allowed to nominate themselves for President/Vice President.
+* All DMS graduate students in good standing who will be active participants in the Fall
+through the Summer terms of the academic year are allowed to nominate themselves for any
+position on the Committee.
 * Once a final list of nominees is determined, all DMS graduate students may vote their approval for up to four candidates amongst all nominees.
 * The candidate receiving the most votes of approval becomes President, the candidate receiving the second most votes of approval becomes Vice President, and the candidates receiving third and fourth most votes become Leaders.
 * The other two Leader positions are filled by appointment by the DMS Department Chair.
