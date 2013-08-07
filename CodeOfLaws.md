@@ -75,4 +75,9 @@ volunteers to head this task.
 
 This Code of Laws must be ratified unanimously by the DMS Department Chair and the charter members of the GSL.
 
-Further amendments to this Code of Laws must be proposed either by a Leader or a petition of at least one-third of the DMS graduate students, and passed by a two-thirds vote of the Leaders.
+Further amendments to this Code of Laws may be proposed by any group of five or more
+DMS Graduate Students, and should be brought to a committee Leader at any point during
+the semester. The Leader will then bring it to the President and Vice President of the GSL.
+The proposed amendment will then be emailed to the entire DMS graduate student
+population. In two weeks, a vote will be presented to the DMS graduate student population.
+A simple majority will decide whether the amendment carries or not.
