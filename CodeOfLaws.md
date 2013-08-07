@@ -55,7 +55,8 @@ The GSL's responsibilities include the following charges:
     - The DMS Department Chair and Graduate Program Officer
     - The Graduate Student Council and other graduate student leadership
 * Organizing professional and social events for the benefit of DMS graduate students
-* Managing the selection of the DMS Outstanding Graduate Teacher Award
+* Managing the selection of the DMS Outstanding Faculty Teacher of Graduate Students
+Award.
 * Supporting the DMS Graduate Student Mentor program
 * Supporting COSAM Outreach efforts by helping represent mathematics
 
