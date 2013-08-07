@@ -13,7 +13,7 @@ The GSL is composed of six DMS graduate students in good standing, and are selec
 
 * One PRESDIENT, elected by popular vote amongst all DMS graduate students each year.
 * One VICE PRESIDENT, elected by popular vote amongst all DMS graduate students each year.
-* Four additional LEADERS, appointed by the DMS Department Chair each year.
+* Four additional LEADERS.
 
 The President and Vice President of the GSL should also be tapped by the DMS Graduate Program Officer as [Graduate Student Council](http://www.auburn.edu/gsc/) Senators representing DMS.
 
@@ -26,8 +26,9 @@ Note: the charter membership of the GSL beginning in May 2013 is completely appo
 Each Spring Semester, elections of the President and Vice President should be held amongst all DMS graduate students, according to the following rules:
 
 * All DMS graduate students in good standing who will be enrolled Fall through Summer of the academic year they wish to run are allowed to nominate themselves for President/Vice President.
-* Once a final list of nominees is determined, all DMS graduate students may vote their approval for up to two candidates amongst all nominees.
-* The candidate receiving the most votes of approval becomes President, and the candidate receiving the second most votes of approval becomes Vice President.
+* Once a final list of nominees is determined, all DMS graduate students may vote their approval for up to four candidates amongst all nominees.
+* The candidate receiving the most votes of approval becomes President, the candidate receiving the second most votes of approval becomes Vice President, and the candidates receiving third and fourth most votes become Leaders.
+* The other two Leader positions are filled by appointment by the DMS Department Chair.
 
 Elections and appointments should completed before May 1 of each year, and newly elected/appointed Leaders take office on August 1 each year.
 
