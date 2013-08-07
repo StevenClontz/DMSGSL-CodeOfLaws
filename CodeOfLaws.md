@@ -49,7 +49,7 @@ If there is ever a stalemate for any GSL position, the DMS Department Chair make
 
 ## Article 3: Responsibilities
 
-The GSL's responsibilities include, but are not limited to, the following charges:
+The GSL's responsibilities include the following charges:
 
 * Representing the interests of DMS graduate students for the following groups and others.
     - The DMS Department Chair and Graduate Program Officer
