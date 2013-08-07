@@ -57,6 +57,12 @@ The GSL's responsibilities include, but are not limited to, the following charge
 The GSL will hold at least one meeting during each semester: Fall, Spring, and Summer.
 These meetings will be open to all DMS graduate students.
 
+At any given meeting, a head count shall be made. A motion for a course of action shall be
+made and seconded. Discussion can then ensue. Any member of the meeting can then call
+for a vote. For any decision which does not affect the Code of Laws, a simple majority will
+ratify the motion. If the motion passes, the President or Vice President may ask for
+volunteers to head this task.
+
 ## Article 5: Ratification and Amendments
 
 This Code of Laws must be ratified unanimously by the DMS Department Chair and the charter members of the GSL.
