@@ -54,7 +54,8 @@ The GSL's responsibilities include, but are not limited to, the following charge
 
 ## Article 4: Meetings
 
-The GSL will hold one open meeting during each semester: fall, spring, and summer. These meetings are open to all DMS graduate students. Leaders may also meet amongst themselves and others additionally as needed in order to fulfill the GSL's mission and responsibilities.
+The GSL will hold at least one meeting during each semester: Fall, Spring, and Summer.
+These meetings will be open to all DMS graduate students.
 
 ## Article 5: Ratification and Amendments
 
