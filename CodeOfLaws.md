@@ -36,7 +36,12 @@ Elections and appointments should completed before May 1 of each year, and newly
 
 ### Section 2.1: Vacancies and Ties
 
-Mid-term vacancies of any Leader, elected or appointed, shall by filled by majority vote of the remaining GSL members.
+Mid-term vacancies of any Leader within the first six months of the appointment shall be filled
+by majority vote of the DMS graduate student population. Nominations will be called for as
+soon as the vacancy arises, and elections will occur two weeks after the nominations are
+called for. After the six month mark, the current chair of the DMS will appoint a new leader. If
+there are no volunteers for the position, the current chair of the department will elect a Leader
+from the DMS graduate student population.
 
 In the case of a tie in any election, a run-off should be held.
 
