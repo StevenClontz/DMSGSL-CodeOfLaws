@@ -1,13 +1,19 @@
-# List of DMS Graduate Student Leaders and Nominees
+# List of DMS Graduate Student Leaders
 
 ## August 2013 - July 2014
 
-* Kat Perry (President) <kep0024@auburn.edu>
-* Jasdeep Pannu (Vice President) <jkp0008@auburn.edu>
-* Joseph Chaffee <chaffjr@auburn.edu>
+* Kat Perry <kep0024@auburn.edu>
+    * Elected as GSC Senator and GSL President
+* Jasdeep Pannu <jkp0008@auburn.edu>
+    * Elected as GSC Senator and GSL Vice President
 * Jennifer Aust <jka0006@auburn.edu>
-* *vacant*
-* *vacant*
+    * Elected as GSL Leader
+* Joseph Chaffee <chaffjr@auburn.edu>
+    * Elected as GSL Leader
+* Randall Gay <rzg0008@auburn.edu>
+    * Appointed as GSL Leader
+* Bin Yeh <bzy0006@auburn.edu>
+    * Appointed as GSL Leader
 
 ### May 2013 - July 2013 (Charter Members)
 
